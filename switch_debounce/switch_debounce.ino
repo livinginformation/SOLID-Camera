@@ -9,7 +9,7 @@ const int LEDPIN = 13;
 const int BTNPIN = 2;
 
 int debounceTimer = 0;
-boolean ledState = LOW;
+boolean ledState = falsenh;
 
 void setup()
 {
