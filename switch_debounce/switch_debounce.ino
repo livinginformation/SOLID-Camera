@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////
-//Switch motherfucking debouncer
+//Switch debouncer
 //Solid Camera
 //7/3/13
 //Jesse Kent
